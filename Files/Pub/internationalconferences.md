@@ -1,8 +1,7 @@
 ## Dr. Harpal Singh
-**Professor**  
-**Guru Nanak Dev Engineering College, Ludhiana**  
+**Principal**  
+**Swamy Sarvanand Institutute of Engineering and Technology, Gurdaspur**  
 **Email: hps_bhoday@yahoo.com**
-
 # Publications in International Conferences
 
 ### [Number of Publications in International Conferences = 15](../../Documents/Pubintc.pdf)
