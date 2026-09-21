@@ -5,4 +5,4 @@
 
 # Publications in Scopus
 
-### [Number of Publications in Scopus = 12](../../Documents/Pubscop.pdf)
+### [Number of Publications in Scopus = 17](../../Documents/Pubscop.pdf)
